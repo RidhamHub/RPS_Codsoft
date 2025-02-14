@@ -1,4 +1,4 @@
-# Task 4 PASSWORD GENERATOR
+# Task 4 RPS GAME
 
 **COMPANY** : Codsoft
 
